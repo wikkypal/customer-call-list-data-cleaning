@@ -31,7 +31,7 @@ The raw customer list had duplicate rows, an irrelevant column, stray symbols in
 Open the notebook in Google Colab or Jupyter, run all cells, and upload `Customer Call List.xlsx` when prompted (Colab), or keep it in the same folder (Jupyter).
 
 ## Tools
-Python · pandas · NumPy · Matplotlib
+Pandas · Google Colab
 
 ---
 *Built by Damilola Ogundiran as part of my data analytics training.*
