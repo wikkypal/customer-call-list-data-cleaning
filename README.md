@@ -1,6 +1,6 @@
 # 🧹 Customer Call List: Data Cleaning with Pandas
 
-A data cleaning project that turns a messy customer list into a clean, ready-to-use call list for a sales team, using Python and pandas.
+A data cleaning project that turns a messy customer list into a clean, ready-to-use call list for a sales team, using pandas.
 
 ## The problem
 The raw customer list had duplicate rows, an irrelevant column, stray symbols in last names (`/White`, `...Potter`), phone numbers in five different formats, addresses crammed into one column, inconsistent Yes/No values, and customers who had asked not to be contacted.
