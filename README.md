@@ -15,7 +15,7 @@ The raw customer list had duplicate rows, an irrelevant column, stray symbols in
 - Filtered out customers with no valid phone number or who opted out of contact
 
 ## Result
-**21 raw rows → 13 customers the sales team can actually call.**
+**21 raw rows → 20 customers the sales team can actually call.**
 
 | Before | After |
 |---|---|
